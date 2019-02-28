@@ -1,6 +1,1 @@
-transformers==4.38.1
-torch==2.2.1
-nltk==3.8.1
-rouge-score==0.1.2
-pandas==2.2.1
-numpy==1.26.4
+nltk

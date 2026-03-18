@@ -1,1 +1,0 @@
-Commit content for 2017-04-06 00:00:00 - fix: Bugfix for data type mismatch
